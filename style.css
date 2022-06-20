@@ -1,0 +1,30 @@
+* {
+    background-color: crimson;
+    color: whitesmoke;
+}
+
+h1 {
+    background-color: blue;
+}
+
+a {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-title {
+    background-color: darkseagreen;
+}
+
+h2 {
+    color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cbz-steps {
+    font-weight: bold;
+}
+
+#tacosteps {
+    color: black;
+}
